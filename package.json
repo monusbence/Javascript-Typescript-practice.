@@ -1,0 +1,15 @@
+{
+  "name": "2024.09.06",
+  "version": "1.0.0",
+  "description": "Git lokális repository létrehozása\r lokális repository létrehozása git-elgit add README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
